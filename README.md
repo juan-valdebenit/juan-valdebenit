@@ -1,10 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Golang/Blockchain%20Developer;Web%20and%20Mobile%20master;10%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-</p>
-
 Highly professional Golang/Web/Blockchain developer with 10 years of experience in all phases of SDLC, like Requirement Analysis, Design, Development, Testing, and Implementation. Strong working knowledge in developing Restful webservices, Micro Services using Golang, and good experience with Docker and Kubernetes. Backend proficiency using Perl, Asp.net, Node, Express, Google Go (Golang), MongoDb inculding 3rd-party services Firebase, Kinvey and Parse
 
 Developed RESTful APIs in Java using Spring Boot that supported multiple applications across the organization and Automated deployment of application code to production environments through the use of Jenkins Pipelines with Python scripts that utilized AWS services such as EC2 instances, S3 buckets, IAM roles & policies.
