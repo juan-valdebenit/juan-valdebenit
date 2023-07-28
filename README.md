@@ -1,12 +1,25 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Highly professional Golang/Web/Blockchain developer with 10 years of experience in all phases of SDLC, like Requirement Analysis, Design, Development, Testing, and Implementation. Strong working knowledge in developing Restful webservices, Micro Services using Golang, and good experience with Docker and Kubernetes. Backend proficiency using Perl, Asp.net, Node, Express, Google Go (Golang), MongoDb inculding 3rd-party services Firebase, Kinvey and Parse
+Highly skilled and experienced web developer with expertise in React, OpenAI, and blockchain technologies. Committed to delivering innovative and efficient solutions that meet client requirements. Passionate about staying up to date with the latest industry trends and continuously enhancing technical skills. Proven ability to work independently and collaborate effectively in team environments.
 
-Developed RESTful APIs in Java using Spring Boot that supported multiple applications across the organization and Automated deployment of application code to production environments through the use of Jenkins Pipelines with Python scripts that utilized AWS services such as EC2 instances, S3 buckets, IAM roles & policies.
+Skills:
 
-Also worked on variety of Frontend Javascript frameworks like AngularJS, BackboneJS, ReactJs, Node.js, Jquery, and familiar in using Golang API/SDK such as viper, gorilla/mux, go-ps, couchbase gocb, grpc, quick-go.
-
-Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. Disseminated information and education regarding cryptocurrency and blockchain technology, and shared unmatched knowledge on decentralized technologies.
+1. Web Development:
+ - Proficient in HTML, CSS, and JavaScript.
+ - Strong knowledge of React and its ecosystem, including React Router, Redux, and Next.js.
+ - Experience building responsive and user-friendly interfaces.
+ - Familiarity with front-end tools and libraries such as Webpack, Babel, and SASS.
+   
+2. OpenAI:
+ - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
+ - Knowledge of OpenAI APIs and ability to integrate them into web applications.
+ - Understanding of reinforcement learning concepts and implementation.
+   
+3. Blockchain Development:
+ - Solid understanding of blockchain technology and its underlying principles.
+ - Experience working with smart contracts, particularly on Ethereum.
+ - Proficient in Solidity programming language.
+ - Familiarity with blockchain frameworks like Truffle and Ganache.
 
 
 
