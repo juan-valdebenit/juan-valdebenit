@@ -5,21 +5,40 @@ Highly skilled and experienced web developer with expertise in React, OpenAI, an
 Skills:
 
 1. Blockchain Development:
- - Solid understanding of blockchain technology and its underlying principles.
- - Experience working with smart contracts, particularly on Ethereum.
- - Proficient in Solidity programming language.
- - Familiarity with blockchain frameworks like Truffle and Ganache.
+   ✔ DEX and Centralized Crypto Exchange
+   ✔ Advance Trading Platform (Lending | Swapping | Staking | Futures)
+   ✔ Portfolio Tracking Platform
+   ✔ Web/Mobile Wallet
+   ✔ DeFi Exchange Development
+   ✔ Liquidity Minting Protocols
+   ✔ Impermanent loss, governance tokens
+   ✔ Crypto Collectible Platforms and Non-Fungible Tokens
+   ✔ Custom dApps
+   ✔ Smart Contract Development | ERC20 | ERC777 | ERC223 | ERC721 | ERC1155
+   ✔ IEO | STO | Blockchain Research Writing and Whitepapers
+   ✔ Tokenomics
+   ✔ Token Wallet Development
+   ✔ Cryptocurrency Games
+   ✔ Custom concurrency development
+   ✔ Chain codes
+   ✔ Node-set ups
+   ✔ Multichain and Cosmos development
+   ✔ One-pagerfd
 
 2. Web Development:
- - Proficient in HTML, CSS, and JavaScript.
- - Strong knowledge of React and its ecosystem, including React Router, Redux, and Next.js.
- - Experience building responsive and user-friendly interfaces.
- - Familiarity with front-end tools and libraries such as Webpack, Babel, and SASS.
+   ✓ Languages: Python, JavaScript, Typescript, SQL
+   ✓ Backend: Node.js Django, Flask, Spring Boot
+   ✓ Frontend: React.js, Vue.js,
+   ✓ CMS (WordPress, Shopify)
+   ✓ Web: CSS 3 (including SASS and Stylus), HTML5
+   ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.
+   ✓ Tests: Mocha, Chai
+   ✓ Version control: GIT, SVN; GitHub, BitBucket
    
-3. OpenAI:
- - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
- - Knowledge of OpenAI APIs and ability to integrate them into web applications.
- - Understanding of reinforcement learning concepts and implementation.
+3 . OpenAI:
+  - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
+  - Knowledge of OpenAI APIs and ability to integrate them into web applications.
+  - Understanding of reinforcement learning concepts and implementation.
    
 </h3>
 <p>
