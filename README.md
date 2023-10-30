@@ -4,25 +4,23 @@ Highly skilled and experienced web developer with expertise in React, OpenAI, an
 
 Skills:
 
-1. Web Development:
- - Proficient in HTML, CSS, and JavaScript.
- - Strong knowledge of React and its ecosystem, including React Router, Redux, and Next.js.
- - Experience building responsive and user-friendly interfaces.
- - Familiarity with front-end tools and libraries such as Webpack, Babel, and SASS.
-   
-2. OpenAI:
- - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
- - Knowledge of OpenAI APIs and ability to integrate them into web applications.
- - Understanding of reinforcement learning concepts and implementation.
-   
-3. Blockchain Development:
+1. Blockchain Development:
  - Solid understanding of blockchain technology and its underlying principles.
  - Experience working with smart contracts, particularly on Ethereum.
  - Proficient in Solidity programming language.
  - Familiarity with blockchain frameworks like Truffle and Ganache.
 
-
-
+2. Web Development:
+ - Proficient in HTML, CSS, and JavaScript.
+ - Strong knowledge of React and its ecosystem, including React Router, Redux, and Next.js.
+ - Experience building responsive and user-friendly interfaces.
+ - Familiarity with front-end tools and libraries such as Webpack, Babel, and SASS.
+   
+3. OpenAI:
+ - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
+ - Knowledge of OpenAI APIs and ability to integrate them into web applications.
+ - Understanding of reinforcement learning concepts and implementation.
+   
 </h3>
 <p>
 <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white" />
